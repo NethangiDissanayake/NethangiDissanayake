@@ -8,5 +8,5 @@ Computer Engineering undergrad passionate about AI/ML and Data Science. Currentl
 
 ## Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NetahngiDissanayake&theme=dark&hide_border=true&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NethangiDissanayake&theme=dark&hide_border=true&layout=compact)
 
