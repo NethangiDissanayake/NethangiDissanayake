@@ -1,6 +1,8 @@
 ### 👋 Hi, I'm Nethangi!
 
 Computer Engineering undergrad passionate about AI/ML and Data Science. Currently exploring more about ML/AI while diving into DevOps for AI scalability! 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethangi-dissanayake)
+
 
 ## Languages & Skills
 
